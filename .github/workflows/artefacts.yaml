@@ -15,7 +15,6 @@ jobs:
 
         with:
           name: file
-          path: file.txt
           retention-days: 10
 
  
